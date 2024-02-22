@@ -1,1 +1,7 @@
+**/test
 /target
+/bench
+.idea
+.DS_Store
+.vscode
+/pkg
